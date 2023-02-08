@@ -11,6 +11,10 @@ Data Source: https://datasets.imdbws.com/
 image.png
 
 
-The data suggests 
+The data suggests there is correlation between the budget spent on a movie and the expected revenue as seen by plot of average budget and revenue per certification. 
+
+Additionally, PG rated movies attract the highest revenue on average.
+
 ![image](https://user-images.githubusercontent.com/114834926/217401347-a627f6d0-e0f1-4578-916a-e371bd1d4531.png)
 
+![image](https://user-images.githubusercontent.com/114834926/217401522-c639bb1c-cd97-4303-8c63-39916f82e5ec.png)
