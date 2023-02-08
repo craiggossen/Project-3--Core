@@ -13,7 +13,7 @@ image.png
 
 The data suggests there is correlation between the budget spent on a movie and the expected revenue as seen by plot of average budget and revenue per certification. 
 
-Additionally, PG rated movies attract the highest revenue on average.
+Additionally, G rated movies attract the highest revenue on average. It also appears the G rated movies achieve higher return on investment/"bang for the buck".
 
 ![image](https://user-images.githubusercontent.com/114834926/217401347-a627f6d0-e0f1-4578-916a-e371bd1d4531.png)
 
